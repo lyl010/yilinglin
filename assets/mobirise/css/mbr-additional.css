@@ -770,11 +770,15 @@ a {
   }
 }
 .cid-sIXgaRBSRT {
-  background-image: url("../../../assets/images/mbr-1646x926.jpg");
+  background-image: url("../../../assets/images/lightning-1280p-1280x720.jpeg");
 }
 .cid-sIXgaRBSRT .mbr-text,
 .cid-sIXgaRBSRT .mbr-section-btn {
   text-align: left;
+  color: #e6c63b;
+}
+.cid-sIXgaRBSRT .mbr-section-title {
+  color: #e6c63b;
 }
 .cid-sIXjGyiwjg {
   padding-top: 5rem;
